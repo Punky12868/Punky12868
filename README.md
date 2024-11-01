@@ -14,5 +14,3 @@ Hey! I’m a game design student at Andrés Bello University, and I’m super pa
 
 ---
 [![](https://visitcount.itsvg.in/api?id=PUNKKY&icon=0&color=10)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
