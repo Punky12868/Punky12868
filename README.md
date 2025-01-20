@@ -1,4 +1,4 @@
-# Who I'm I?:
+# Who am I?:
 I’m a game design student at Andrés Bello University, and I’m super passionate about making games. I’ve picked up some cool skills along the way, like programming, 3D modeling, Concept Art, Etc. But honestly, what I love most is working with other people to make games that are just plain fun. For me, I’d rather work on projects that are actually fun to play.<br><br>I also tutor programming at my university, which is a great way for me to share what I know while learning even more from my students.<br><br>And just to share a bit more about me: I really like food, like, way more than money.
 
 
